@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Artham Siri
 
 ## 🚀 About Me
-Data Science student passionate about Python, SQL, Data Analytics, and backend development. Interested in building real-world AI and automation projects.
+Aspiring Data Scientist with a strong foundation in Machine Learning and Predictive Analytics. Proven track record of building
+end-to-end ML pipelines, from exploratory data analysis to cloud deployment. Experienced in developing high-accuracy forecasting models (R² = 0.98) and deploying them as interactive web applications using Streamlit. Proficient in Python, SQL, and
+the Scikit-Learn ecosystem.
 
 ---
 
 ## 💻 Skills
-- Python
-- MySQL
-- Pandas
-- NumPy
-- Git & GitHub
-- HTML & CSS
+- Languages: Python(Proficient), SQL (MySQL, SQLite ),C
+- ML Algorithms: Random Forest, Linear Regression, Decision Trees, Time-Series Forecasting
+- Libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Joblib
+- Tools & Deployment : Git, GitHub,Streamlit Cloud, VS Code, Jupyter Notebook
+- Core CS: OOPS, DBMS, Data Structures & Algorithms (DSA)
+
 
 ---
 
