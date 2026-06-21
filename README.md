@@ -16,6 +16,12 @@ Data Science student passionate about Python, SQL, Data Analytics, and backend d
 ---
 
 ## 📌 Projects
+
+### 🔹 Walmart Weekly Sales Forecasting System 
+-  Developed a predictive model for weekly sales across 45 stores using\textbf{ Random Forest Regression }, achieving an R²     score of 0.98.
+-  Engineered Time-Series lag and rolling features to capture autocorrelation and retail seasonality.
+-  Deployed a Streamlit-based forecasting dashboard for real-time sales prediction and business insight generation
+
 ### 🔹 E-Commerce Data Cleaning & Optimization
 - Cleaned 2,700+ records using Python and MySQL
 - Automated NULL handling and datatype corrections
