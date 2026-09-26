@@ -20,7 +20,7 @@ the Scikit-Learn ecosystem.
 ## 📌 Projects
 
 ### 🔹 Walmart Weekly Sales Forecasting System 
--  Developed a predictive model for weekly sales across 45 stores using\textbf{ Random Forest Regression }, achieving an R²     score of 0.98.
+-  Developed a predictive model for weekly sales across 45 stores,achieving an R² score of 0.98.
 -  Engineered Time-Series lag and rolling features to capture autocorrelation and retail seasonality.
 -  Deployed a Streamlit-based forecasting dashboard for real-time sales prediction and business insight generation
 
